@@ -103,7 +103,7 @@ public class Simples extends HttpServlet {
             out.println("<a href='http://localhost:8080/TP-POO/Home'>Voltar</a>");
             out.println("</body>");
             out.println("</html>");
-        }            
+        }             
     }
 
     // <editor-fold defaultstate="collapsed" desc="HttpServlet methods. Click on the + sign on the left to edit the code.">
